@@ -11,4 +11,4 @@ Basic:
 Advanced:
   User must input correct values, or is prompted to try again.
   *Shouldn't* crash or throw exceptions. (emphasis on shouldn't)
-  Also user given option to draw another rectangle/square after.
+  Also user given option to draw another rectangle/square after in a basic menu/UI.
