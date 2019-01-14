@@ -1,4 +1,9 @@
 # Python program for drawing a square of size w by h determined by the user
+# ┌ is 9484
+# └ is 9492
+# ┘ is 9496
+# ┐ is 9488
+# | is 124
 
 def makeSquare(w,h):
     top = chr(9484)
@@ -20,9 +25,3 @@ wid = int(input("What is the width? (minimum 2) "))
 hei = int(input("What is the height? (minimum 2) "))
 
 makeSquare(wid,hei)
-
-# ┌ is 9484
-# └ is 9492
-# ┘ is 9496
-# ┐ is 9488
-# | is 124
