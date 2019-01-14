@@ -1,3 +1,5 @@
+# Python program for drawing a square of size w by h determined by the user
+
 def makeSquare(w,h):
     top = chr(9484)
     bottom = chr(9492)
